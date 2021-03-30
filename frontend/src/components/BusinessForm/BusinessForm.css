@@ -1,0 +1,20 @@
+.business-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.form-item {
+    margin-bottom: 10px !important;
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.form-row > div {
+    width: 490px;
+}

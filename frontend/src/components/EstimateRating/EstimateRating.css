@@ -1,0 +1,15 @@
+.show-rating {
+    padding: 10px;
+}
+
+.rating-card {
+    margin: auto;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .MuiCardContent-root > h4 {
+    text-align: center;
+} */
